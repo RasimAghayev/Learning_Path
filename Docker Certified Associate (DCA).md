@@ -1,4 +1,4 @@
-![Docker Certified Associate (DCA)](https://github.com/RasimAghayev/Learning_Path/blob/master/images/DCA.jpg?raw=true)
+![Docker Certified Associate (DCA)](https://github.com/RasimAghayev/Learning_Path/blob/master/images/DCA.png?raw=true)
 
 # Docker Certified Associate (DCA)
 
